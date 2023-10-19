@@ -1,0 +1,2500 @@
+{
+    "Debug": 1,
+    "Children": [
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0,
+            "Debug": 1
+        },
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0,
+            "Debug": 1
+        },
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0,
+            "Debug": 1
+        },
+        {
+            "Enabled": true,
+            "Debug": 0,
+            "Children": [
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                }
+            ]
+        },
+        {
+            "Enabled": true,
+            "Debug": 0,
+            "Children": [
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                }
+            ]
+        }
+    ]
+},
+{
+    "Debug": 1,
+    "Children": [
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0,
+            "Debug": 1
+        },
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0,
+            "Debug": 1
+        },
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0,
+            "Debug": 1
+        },
+        {
+            "Enabled": true,
+            "Debug": 0,
+            "Children": [
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                }
+            ]
+        },
+        {
+            "Enabled": true,
+            "Debug": 0,
+            "Children": [
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                },
+                {
+                    "Bandwidth": 0.0,
+                    "PendingVolume": 0,
+                    "ReceivedSpeed": 0.0,
+                    "Enabled": true,
+                    "Debug": 1
+                }
+            ]
+        }
+    ]
+},
+{
+    "ProcessedSpeed": 35.0,
+    "PendingCount": -60363,
+    "Debug": 1,
+    "Children": [
+        {
+            "Bandwidth": 0.0,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 0.0,
+            "Enabled": true,
+            "Debug": 0
+        },
+        {
+            "Bandwidth": 2440.0,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 35.0,
+            "Enabled": true,
+            "Debug": 0
+        },
+        {
+            "Bandwidth": 0.0,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 0.0,
+            "Enabled": true,
+            "Debug": 0
+        }
+    ]
+},
+{
+    "Debug": 1,
+    "Children": [
+        {
+            "ProcessedSpeed": 4.9575408658356146,
+            "PendingCount": 0
+        },
+        {
+            "ProcessedSpeed": 2.8616423127392543,
+            "PendingCount": 0
+        },
+        {
+            "ProcessedSpeed": 2.3024464933020394,
+            "PendingCount": 0
+        },
+        {
+            "Bandwidth": 5215.1001577596207,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 8.994816902453957,
+            "Enabled": true,
+            "Debug": 1
+        },
+        {
+            "Bandwidth": 0.0,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 0.0,
+            "Enabled": true,
+            "Debug": 1
+        }
+    ]
+},
+{
+    "Debug": 0,
+    "Children": [
+        {
+            "ProcessedSpeed": 40.89826913412741,
+            "PendingCount": 0
+        },
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0
+        },
+        {
+            "ProcessedSpeed": 0.0,
+            "PendingCount": 0
+        },
+        {
+            "Bandwidth": 1505.3148060593587,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 40.574523074376245,
+            "Enabled": true,
+            "Debug": 0
+        },
+        {
+            "Bandwidth": 1505.3148060593587,
+            "PendingVolume": 0,
+            "ReceivedSpeed": 0.0,
+            "Enabled": true,
+            "Debug": 0
+        }
+    ]
+},
+{
+    "Bandwidth": 0.0,
+    "PendingVolume": 0,
+    "ProcessedSpeed": 0.0,
+    "PendingCount": 0,
+    "Enabled": true,
+    "Debug": 0
+}
