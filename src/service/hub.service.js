@@ -20,6 +20,8 @@ class HubService {
                 if (response.data.SResult.C == 0)
                     var jsonObj = JSON.parse(response.data.SResult.D);
                 return jsonObj;
+            }).catch(error => {
+                console.log(error)
             });
     }
 

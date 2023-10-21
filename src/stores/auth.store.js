@@ -9,6 +9,19 @@ export const auth = {
     namespaced: true,
     state: initialState,
     actions: {
+        getLoginInfo({ commit }) {
+            return AuthService.getLoginInfo().then(
+                response => {
+                    if (response.C == 1) {
+                        AuthService.logout();
+                        commit('isSignInFailure')
+                        return false
+                    } else {
+                        return true
+                    }
+                }
+            )
+        },
         login({ commit }, user) {
             return AuthService.login(user).then(
                 user => {
@@ -39,6 +52,14 @@ export const auth = {
         }
     },
     mutations: {
+        isSignInSuccess(state) {
+            state.status.loggedIn = true;
+        },
+
+        isSignInFailure(state) {
+            state.status.loggedIn = false;
+            state.user = null;
+        },
         loginSuccess(state, user) {
             state.status.loggedIn = true;
             state.user = user;

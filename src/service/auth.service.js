@@ -5,6 +5,25 @@ const API_URL = 'http://localhost:5105/ProxyServer';
 
 
 class AuthService {
+    getLoginInfo() {
+        const json = {
+            act: {
+                A: "GetLoginInfo",
+            }
+        }
+        return axios
+            .get(API_URL + "?jsonString=" + JSON.stringify(json) + "&sessionCookie=" + localStorage.getItem('sessionCookie'),
+                {
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                })
+            .then(response => {
+                return response.data.SResult;
+            }).catch(error => {
+                console.log(error)
+            });
+    }
     login(user) {
         const json = {
             act: {
@@ -13,16 +32,16 @@ class AuthService {
             }
         }
         return axios
-            .get(API_URL + "?jsonString=" + JSON.stringify(json))
+            .get(API_URL + "/requestlogin" + "?jsonString=" + JSON.stringify(json))
             .then(response => {
-                console.log(response)
                 if (response.data.SResult.C == 0) {
                     localStorage.setItem('user', JSON.stringify(user));
-                    localStorage.setItem('sessionCookie', 'ASP.NET_SessionId=gvcsg4ygu33gikshb0twi2nl');
+                    localStorage.setItem('sessionCookie', response.data.cookie);
                 }
                 return response.data;
             });
     }
+
     // login(user) {
     //     const act = {
     //         "A": "LoginX",
@@ -44,7 +63,23 @@ class AuthService {
     // }
 
     logout() {
-        localStorage.removeItem('user');
+        const json = {
+            act: {
+                A: "Logout",
+            }
+        }
+        return axios
+            .get(API_URL + "?jsonString=" + JSON.stringify(json) + "&sessionCookie=" + localStorage.getItem('sessionCookie'),
+                {
+                    headers: {
+                        'Content-Type': 'application/json',
+                    }
+                })
+            .then(response => {
+                return response.data.SResult;
+            }).catch(error => {
+                console.log(error)
+            });
     }
 
     register() {

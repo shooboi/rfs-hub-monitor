@@ -1,11 +1,9 @@
 <template>
-  <div class="h-full">
-    <div class="fixed h-full">
+  <div class="h-full w-full">
+    <div class="fixed z-50 h-full">
       <SideBar></SideBar>
     </div>
     <NavBarComponent></NavBarComponent>
-
-
     <div class="relative pl-10">
       <RouterView>
       </RouterView>

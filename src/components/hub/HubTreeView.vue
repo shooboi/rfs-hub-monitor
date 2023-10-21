@@ -21,10 +21,10 @@
                             <div class="relative">
                                 <select
                                     class=" appearance-none w-full bg-gray-200 border border-gray-200 text-gray-700 py-2 px-4 pr-8 rounded leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
-                                    id="debug">
-                                    <option>None</option>
-                                    <option>Basic</option>
-                                    <option>Full</option>
+                                    id="debug" v-bind:value="data.Debug">
+                                    <option value="0">None</option>
+                                    <option value="1">Basic</option>
+                                    <option value="2">Full</option>
                                 </select>
                                 <div
                                     class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-gray-700">
@@ -38,7 +38,7 @@
 
                             <div class="px-2 pt-1">
                                 <label class="relative inline-flex items-center cursor-pointer">
-                                    <input type="checkbox" value="" class="sr-only peer">
+                                    <input v-bind:checked="data.Enabled" type="checkbox" class="sr-only peer">
                                     <div
                                         class="w-11 h-6 bg-gray-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-white peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-slate-500 after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-gray-600 peer-checked:bg-blue-500">
                                     </div>
@@ -85,7 +85,7 @@
 
                 </div>
             </div>
-            <div v-if="data.Group" class="w-full">{{ data.Group }}</div>
+            <div v-if="data.Group && data.Parent.Group == data.Group" class="w-full ml-6">{{ data.Group }}</div>
             <div v-if="nodeIsShow">
                 <div v-if="data.Children != null && data.Children.length > 0" class="border-l-8">
                     <hub-tree-view class="ml-6" v-for="( item, index ) in  data?.Children " :key="index" :data="item"
@@ -116,8 +116,8 @@ export default {
             nodeIsShow: this.isShow,
             chartEnabled: this.isChartEnable,
             chartDataLocal: [],
+            counting: 0,
             chartOptions: {
-
                 chart: {
                     style: {
                         color: "#ffffff",
@@ -137,12 +137,19 @@ export default {
                 },
                 xAxis: {
                     lineColor: '#ffffff',
-                    tickColor: '#green',
+                    tickColor: '#00ff00',
+                    tickPositions: [0, 300, 600, 900, 1200], // Adjusted tick positions for 5 minutes interval (300 seconds = 5 minutes)
 
                     labels: {
                         style: {
                             color: '#ffffff',
                             font: '11px Trebuchet MS, Verdana, sans-serif'
+                        },
+                        formatter: function () {
+                            const minutes = Math.floor(this.value / 60); // Convert seconds to minutes
+                            const seconds = this.value % 60; // Remaining seconds
+
+                            return `${minutes}m ${seconds}s`;
                         }
                     },
                     title: {
@@ -177,9 +184,10 @@ export default {
                     }
                 },
                 series: [{
-                    data: [this.data.Bandwidth],
+
+                    data: [],
                     showInLegend: false, // sample data,
-                    color: "green",
+                    color: "#00ff00",
                     name: 'Bandwidth',
                     type: 'line', // Loại biểu đồ đường
                     pointStart: 0, // Điểm bắt đầu của dữ liệu
@@ -192,6 +200,9 @@ export default {
         }
     },
     created() {
+        for (var i = 0; i < 1200; i++) {
+            this.chartOptions.series[0].data.push(null);
+        }
         // setInterval(this.chartData.push(this.data.Bandwidth), 2000)
     },
     methods: {
@@ -200,11 +211,29 @@ export default {
         },
         showChart() {
             this.chartEnabled = !this.chartEnabled
+        },
+        updateChartData(newBandwidth) {
+            this.counting++;
+
+            if (this.counting < 1800) {
+                this.chartOptions.series[0].data[this.counting] = newBandwidth;
+            } else {
+                this.chartOptions.series[0].data.push(newBandwidth);
+                this.chartOptions.series[0].data.shift();
+            }
+        }
+    },
+    computed: {
+        dataValue() {
+            return this.data;
         }
     },
     watch: {
-        data(newData) {
-            this.chartOptions.series[0].data[0].push(newData.Bandwidth) // Update the chart data with the new random number
+        data: {
+            handler(newData) {
+                this.updateChartData(newData.Bandwidth);
+            },
+            deep: true
         }
     },
 }

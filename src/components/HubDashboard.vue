@@ -2,11 +2,11 @@
     <div class="container pl-10 pt-5">
         <div class="flex justify-center ">
             <div>
-                <h1 class="text-6xl p-2 bg-slate-500 rounded text-white font-semibold">Hub Monitor</h1>
+                <h1 class="md:text-6xl p-2 bg-slate-500 rounded text-white font-semibold">Hub Monitor</h1>
             </div>
         </div>
         <div class="flex">
-            <div class="ml-4 w-screen">
+            <div class="ml-4 sm:w-screen">
                 <div role="status" class="w-screen justify-center items-center" v-if="isLoading">
                     <svg aria-hidden="true"
                         class="w-24 h-24 mr-2 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"
@@ -161,6 +161,8 @@ export default {
                 if (this.structData) {
                     this.structData.update(this.statsList);
                 }
+            }).catch(error => {
+                console.log(error)
             });
         },
         fetchGetStruct() {
@@ -170,10 +172,13 @@ export default {
                     this.structList = response;
                     this.structData = this.initializeData(this.structList);
                     this.fetchGetStats()
+
                 } else {
                     console.log('error getstruct')
                 }
                 this.isLoading = false;
+            }).catch(error => {
+                console.log(error)
             });
         },
         showHide() {
@@ -181,16 +186,16 @@ export default {
         },
         showChart() {
             this.chartEnabled = !this.chartEnabled
-        }
+        },
+        updateChartData(newBandwidth) {
+            this.chartOptions.series[0].data[0] = newBandwidth; // Update the chart data with the new bandwidth
+
+        },
     },
     created() {
         this.fetchGetStruct()
         setInterval(this.fetchGetStats, 2000);
     },
-    watch() {
-        this.structData
-    }
-
 };
 
 const BANDWIDTH = 1 << 0;
